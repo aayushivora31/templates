@@ -1,3 +1,0 @@
-#IMPACT Template 
-![Myimage](images/impact1.png)
-This template is made with Bootstrap Framework by using HTML,CSS and JavaScript.This template contains the different sections.Firstly create a navbar which contains the logo and the list of items.Also describe about Services,Portfolio that which product has which Apps,Brands contains.Creating a Bloger posts and the at the end create a Footer Section.
